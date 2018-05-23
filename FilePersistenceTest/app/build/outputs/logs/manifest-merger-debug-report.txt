@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ed714b5684b30c2bf2eb7de1a746e87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a5b7646b33af83a113a2c1c8a4673c4a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d6426d28a6445d7cbf23ff91cd0dd17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd37530c4be6e2f9f19f61831d985b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e5159fee297083525f11db2e0f4d7e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ad939578e3cd5060818b3927943c3073\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\761fbeb6f1316ba549f4b4fa27d42224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54d97bf6a84da1f67b773855d64b2ff1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f30644a82b10687394f8f48dec32244a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f22f223f7f05ff9bb8ccdef6c89eb677\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac0271b1a83780c17e0bee66d4185d07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7176b85a7e2e2a3b532227ea2bfe71c3\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a5b7646b33af83a113a2c1c8a4673c4a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a5b7646b33af83a113a2c1c8a4673c4a\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.filepersistencetest.MainActivity
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ed714b5684b30c2bf2eb7de1a746e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ed714b5684b30c2bf2eb7de1a746e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a5b7646b33af83a113a2c1c8a4673c4a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a5b7646b33af83a113a2c1c8a4673c4a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d6426d28a6445d7cbf23ff91cd0dd17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d6426d28a6445d7cbf23ff91cd0dd17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd37530c4be6e2f9f19f61831d985b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd37530c4be6e2f9f19f61831d985b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e5159fee297083525f11db2e0f4d7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e5159fee297083525f11db2e0f4d7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ad939578e3cd5060818b3927943c3073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ad939578e3cd5060818b3927943c3073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\761fbeb6f1316ba549f4b4fa27d42224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\761fbeb6f1316ba549f4b4fa27d42224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54d97bf6a84da1f67b773855d64b2ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54d97bf6a84da1f67b773855d64b2ff1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f30644a82b10687394f8f48dec32244a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f30644a82b10687394f8f48dec32244a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f22f223f7f05ff9bb8ccdef6c89eb677\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f22f223f7f05ff9bb8ccdef6c89eb677\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac0271b1a83780c17e0bee66d4185d07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac0271b1a83780c17e0bee66d4185d07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7176b85a7e2e2a3b532227ea2bfe71c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yu Wei\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7176b85a7e2e2a3b532227ea2bfe71c3\AndroidManifest.xml:20:5-44
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\FilePersistenceTest\app\src\main\AndroidManifest.xml
